@@ -1,5 +1,6 @@
 The MIT License (MIT)
 
+Copyright (c) 2023 Jyun-Fan Tsai
 Copyright (c) 2016 Michael Hu
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
